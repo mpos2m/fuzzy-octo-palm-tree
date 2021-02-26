@@ -8,7 +8,6 @@ import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
 
-
 import native_jdbc_programing.dao.TitleDao;
 import native_jdbc_programing.dto.Title;
 import native_jdbc_programing.util.JdbcUtil;
